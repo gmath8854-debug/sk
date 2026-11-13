@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "corp-1",
+      "name": "Personalised Wooden Photo Planks",
+      "personalisation": "Personalised photo printing"
+    },
+    {
+      "id": "corp-2",
+      "name": "Custom Name or Logo Pen Engraving",
+      "personalisation": "Name or logo engraving"
+    },
+    {
+      "id": "corp-3",
+      "name": "Custom Name or Logo Water Bottle Engraving",
+      "personalisation": "Name or logo engraving"
+    },
+    {
+      "id": "corp-4",
+      "name": "Custom Name or Logo Keychains",
+      "personalisation": "Name or logo personalisation"
+    },
+    {
+      "id": "corp-5",
+      "name": "Custom Name or Logo Diaries",
+      "personalisation": "Name or logo personalisation"
+    },
+    {
+      "id": "corp-6",
+      "name": "Custom Name or Logo Diary Combos",
+      "personalisation": "Name or logo personalisation"
+    },
+    {
+      "id": "corp-7",
+      "name": "Custom Name or Logo Tabletop Pen Stand Calendars",
+      "personalisation": "Name or logo personalisation"
+    },
+    {
+      "id": "corp-8",
+      "name": "Crystal Mementos",
+      "personalisation": ""
+    },
+    {
+      "id": "corp-9",
+      "name": "Shields",
+      "personalisation": ""
+    },
+    {
+      "id": "corp-10",
+      "name": "More Gifts",
+      "personalisation": "Additional gift enquiries"
+    }
+  ]
+}

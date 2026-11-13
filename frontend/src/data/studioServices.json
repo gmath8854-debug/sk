@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "id": "std-1",
+      "section": "Photo Sizes",
+      "name": "Instant Passport Photos",
+      "detail": ""
+    },
+    {
+      "id": "std-2",
+      "section": "Photo Sizes",
+      "name": "Visa Passport Photos",
+      "detail": ""
+    },
+    {
+      "id": "std-3",
+      "section": "Photo Sizes",
+      "name": "Pension Size Photos",
+      "detail": ""
+    },
+    {
+      "id": "std-4",
+      "section": "Photo Sizes",
+      "name": "IT Size Photos",
+      "detail": "IT label retained as supplied; confirm exact dimensions."
+    },
+    {
+      "id": "std-5",
+      "section": "Photo Sizes",
+      "name": "Stamp Size Photos",
+      "detail": ""
+    },
+    {
+      "id": "std-6",
+      "section": "Photo Sizes",
+      "name": "Polaroid Photos",
+      "detail": ""
+    },
+    {
+      "id": "std-7",
+      "section": "Portraits",
+      "name": "Studio Portraits",
+      "detail": "Kids, family, matrimony, maternity and all portraits"
+    },
+    {
+      "id": "std-8",
+      "section": "Document Printing",
+      "name": "Black & White Xerox",
+      "detail": ""
+    },
+    {
+      "id": "std-9",
+      "section": "Document Printing",
+      "name": "Black & White Printouts",
+      "detail": "A4 to A3"
+    },
+    {
+      "id": "std-10",
+      "section": "Document Printing",
+      "name": "Colour Printouts",
+      "detail": "A4 to A3"
+    },
+    {
+      "id": "std-11",
+      "section": "Document Printing",
+      "name": "Sticker Printouts",
+      "detail": "A4 to 12 \u00d7 18 inches"
+    },
+    {
+      "id": "std-12",
+      "section": "Document Printing",
+      "name": "Card Printouts",
+      "detail": "A4 to 12 \u00d7 18 inches"
+    },
+    {
+      "id": "std-13",
+      "section": "Photo Services",
+      "name": "Old Photo Restoration Services",
+      "detail": ""
+    },
+    {
+      "id": "std-14",
+      "section": "Photo Services",
+      "name": "Shield & Memento Printing",
+      "detail": ""
+    },
+    {
+      "id": "std-15",
+      "section": "Photo Services",
+      "name": "Photo Albums",
+      "detail": ""
+    },
+    {
+      "id": "std-16",
+      "section": "Card Printing",
+      "name": "PVC Card Printing",
+      "detail": "Aadhaar, RC, driving licence, PAN card, ID cards and other cards"
+    },
+    {
+      "id": "std-17",
+      "section": "Printing & Framing",
+      "name": "Enlargement Prints & Frames with Designing Service",
+      "detail": "4 \u00d7 6 to 30 \u00d7 40 inches"
+    },
+    {
+      "id": "std-18",
+      "section": "Printing & Framing",
+      "name": "4 \u00d7 6 Printing & Frame",
+      "detail": "4 \u00d7 6 inches"
+    },
+    {
+      "id": "std-19",
+      "section": "Printing & Framing",
+      "name": "5 \u00d7 7 Printing & Frame",
+      "detail": "5 \u00d7 7 inches"
+    },
+    {
+      "id": "std-20",
+      "section": "Printing & Framing",
+      "name": "6 \u00d7 8 Printing & Frame",
+      "detail": "6 \u00d7 8 inches"
+    },
+    {
+      "id": "std-21",
+      "section": "Printing & Framing",
+      "name": "6 \u00d7 9 Printing & Frame",
+      "detail": "6 \u00d7 9 inches"
+    },
+    {
+      "id": "std-22",
+      "section": "Printing & Framing",
+      "name": "8 \u00d7 10 Printing & Frame",
+      "detail": "8 \u00d7 10 inches"
+    },
+    {
+      "id": "std-23",
+      "section": "Printing & Framing",
+      "name": "8 \u00d7 12 Printing & Frame",
+      "detail": "8 \u00d7 12 inches"
+    },
+    {
+      "id": "std-24",
+      "section": "Printing & Framing",
+      "name": "10 \u00d7 12 Printing & Frame",
+      "detail": "10 \u00d7 12 inches"
+    },
+    {
+      "id": "std-25",
+      "section": "Printing & Framing",
+      "name": "10 \u00d7 15 Printing & Frame",
+      "detail": "10 \u00d7 15 inches"
+    },
+    {
+      "id": "std-26",
+      "section": "Printing & Framing",
+      "name": "12 \u00d7 15 Printing & Frame",
+      "detail": "12 \u00d7 15 inches"
+    },
+    {
+      "id": "std-27",
+      "section": "Printing & Framing",
+      "name": "12 \u00d7 18 Printing & Frame",
+      "detail": "12 \u00d7 18 inches"
+    },
+    {
+      "id": "std-28",
+      "section": "Printing & Framing",
+      "name": "16 \u00d7 20 Printing & Frame",
+      "detail": "16 \u00d7 20 inches"
+    },
+    {
+      "id": "std-29",
+      "section": "Printing & Framing",
+      "name": "20 \u00d7 24 Printing & Frame",
+      "detail": "20 \u00d7 24 inches"
+    },
+    {
+      "id": "std-30",
+      "section": "Printing & Framing",
+      "name": "20 \u00d7 30 Printing & Frame",
+      "detail": "20 \u00d7 30 inches"
+    },
+    {
+      "id": "std-31",
+      "section": "Printing & Framing",
+      "name": "30 \u00d7 40 Printing & Frame",
+      "detail": "30 \u00d7 40 inches"
+    },
+    {
+      "id": "std-32",
+      "section": "Media Conversion",
+      "name": "DVC, VHS, TO PENDRIVE CONVERTION",
+      "detail": ""
+    },
+    {
+      "id": "std-33",
+      "section": "Media Conversion",
+      "name": "CD, DVD TO PENDRIVE CONVERTION",
+      "detail": ""
+    }
+  ]
+}

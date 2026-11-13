@@ -1,0 +1,64 @@
+{
+  "occasions": [
+    {
+      "id": "pocc-1",
+      "name": "Birthday"
+    },
+    {
+      "id": "pocc-2",
+      "name": "Wedding"
+    },
+    {
+      "id": "pocc-3",
+      "name": "25th Anniversary \u2013 Silver Jubilee"
+    },
+    {
+      "id": "pocc-4",
+      "name": "50th Anniversary \u2013 Golden Jubilee"
+    },
+    {
+      "id": "pocc-5",
+      "name": "Engagement"
+    },
+    {
+      "id": "pocc-6",
+      "name": "Graduation"
+    },
+    {
+      "id": "pocc-7",
+      "name": "Retirement"
+    },
+    {
+      "id": "pocc-8",
+      "name": "Farewell"
+    },
+    {
+      "id": "pocc-9",
+      "name": "Housewarming"
+    },
+    {
+      "id": "pocc-10",
+      "name": "Baby Shower"
+    },
+    {
+      "id": "pocc-11",
+      "name": "Naming Ceremony"
+    },
+    {
+      "id": "pocc-12",
+      "name": "Half Saree Ceremony"
+    },
+    {
+      "id": "pocc-13",
+      "name": "Corporate Celebration"
+    },
+    {
+      "id": "pocc-14",
+      "name": "Upanayanam"
+    },
+    {
+      "id": "pocc-15",
+      "name": "Any Other Occasion"
+    }
+  ]
+}

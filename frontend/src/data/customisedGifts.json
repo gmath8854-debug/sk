@@ -1,0 +1,167 @@
+{
+  "products": [
+    {
+      "id": "cg-1",
+      "name": "Wood Printing Planks",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-2",
+      "name": "Crystal Photo Cubes",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-3",
+      "name": "Acrylic Photo Frames",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-4",
+      "name": "LED Photo Frames",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-5",
+      "name": "Personalised Photo Frames",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-6",
+      "name": "Photo Wall Clocks",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-7",
+      "name": "Name Plates",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-8",
+      "name": "Sublimation Products",
+      "detail": "Use all occasions listed below"
+    },
+    {
+      "id": "cg-9",
+      "name": "Photo Cutouts & Caricature Cutouts",
+      "detail": "Use all occasions listed below"
+    }
+  ],
+  "occasions": [
+    {
+      "id": "occ-1",
+      "name": "Birthday"
+    },
+    {
+      "id": "occ-2",
+      "name": "Wedding"
+    },
+    {
+      "id": "occ-3",
+      "name": "Wedding Anniversary"
+    },
+    {
+      "id": "occ-4",
+      "name": "1st Anniversary"
+    },
+    {
+      "id": "occ-5",
+      "name": "25th Anniversary \u2013 Silver Jubilee"
+    },
+    {
+      "id": "occ-6",
+      "name": "50th Anniversary \u2013 Golden Jubilee"
+    },
+    {
+      "id": "occ-7",
+      "name": "Engagement"
+    },
+    {
+      "id": "occ-8",
+      "name": "Valentine\u2019s Day"
+    },
+    {
+      "id": "occ-9",
+      "name": "Mother\u2019s Day"
+    },
+    {
+      "id": "occ-10",
+      "name": "Father\u2019s Day"
+    },
+    {
+      "id": "occ-11",
+      "name": "Parents\u2019 Day"
+    },
+    {
+      "id": "occ-12",
+      "name": "Friendship Day"
+    },
+    {
+      "id": "occ-13",
+      "name": "Raksha Bandhan"
+    },
+    {
+      "id": "occ-14",
+      "name": "Graduation"
+    },
+    {
+      "id": "occ-15",
+      "name": "Retirement"
+    },
+    {
+      "id": "occ-16",
+      "name": "Farewell"
+    },
+    {
+      "id": "occ-17",
+      "name": "Housewarming"
+    },
+    {
+      "id": "occ-18",
+      "name": "Baby Shower"
+    },
+    {
+      "id": "occ-19",
+      "name": "Naming Ceremony"
+    },
+    {
+      "id": "occ-20",
+      "name": "Baby\u2019s First Birthday"
+    },
+    {
+      "id": "occ-21",
+      "name": "Half Saree Ceremony"
+    },
+    {
+      "id": "occ-22",
+      "name": "Teachers\u2019 Day"
+    },
+    {
+      "id": "occ-23",
+      "name": "Employee Appreciation"
+    },
+    {
+      "id": "occ-24",
+      "name": "Corporate Celebration"
+    },
+    {
+      "id": "occ-25",
+      "name": "Thank You Gift"
+    },
+    {
+      "id": "occ-26",
+      "name": "Congratulations"
+    },
+    {
+      "id": "occ-27",
+      "name": "Memorial & Remembrance"
+    },
+    {
+      "id": "occ-28",
+      "name": "Just Because"
+    },
+    {
+      "id": "occ-29",
+      "name": "Other Occasion"
+    }
+  ]
+}
